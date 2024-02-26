@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IlmariHirvonen
 - 👀 I’m interested in Game Development and Modular Synthesizers 
 - 👨‍🎓 I study Electronics and Electrical Engineering at Aalto University
-- 🌱 I’m currently learning game architectures in Unity
+- 🌱 I’m currently learning about virtual analog synthesis
 <!---
 - 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me ...
